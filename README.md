@@ -7,4 +7,11 @@ Note the flat nature of the landscape, the square format of ground features. Mul
 
 Further work : enhance size further and process colour information.
 
+#### Original Image
+
+![37 Image scaked 800% Enlargement](https://github.com/wrapperband/SpaceImageEnhancement/blob/master/MoonImages/apollo12-1-original.jpg)
+
+
+#### Enlarged Image : Download needed for full resolution.
+
 ![37 Image scaked 800% Enlargement](https://github.com/wrapperband/SpaceImageEnhancement/blob/master/MoonImages/apollo12-2c_stacked.png)
