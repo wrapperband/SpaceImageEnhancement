@@ -35,11 +35,11 @@ For the image  Apollo12-2c  - The astronaut is blurred because the image is regi
  
  ~/Pictures/apollo12-2b$  mogrify -resize 400% *.jpg
  
- Siril is then used to convert to *.FIL format, register the images and combine the images, in this case by addition.
+ Siril is then used to convert to *.FIT  FITS format, register the images and combine the images, in this case by addition.
  
 
  
-### Referances 
+### References 
  
 #### Siril   
  
